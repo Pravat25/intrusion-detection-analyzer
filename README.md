@@ -58,9 +58,9 @@ auth_log_sample.txt
 
 ===== Intrusion Detection Report =====
 
-🚨 ALERT: Possible brute-force attack from 192.168.1.10 (5 attempts)
+ ALERT: Possible brute-force attack from 192.168.1.10 (5 attempts)
 
-⚠️ Suspicious activity from 10.0.0.5 (3 attempts)
+ Suspicious activity from 10.0.0.5 (3 attempts)
 
 
 ## Disclaimer
